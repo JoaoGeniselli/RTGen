@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ID</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Lowercase Letters</string>
+		<key>chars</key>
+		<string>abcçdefghijklmnñopqrstuvwxyz</string>
+		<key>active</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Uppercase Letters</string>
+		<key>chars</key>
+		<string>ABCÇDEFGHIJKLMNÑOPQRSTUVWXYZ</string>
+		<key>active</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Numbers</string>
+		<key>chars</key>
+		<string>1234567890</string>
+		<key>active</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>ID</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Special Characters</string>
+		<key>chars</key>
+		<string>!@#$%¨ &amp;*()_-+=§´`[{}]ºˆ&quot;&apos;˜;:\|/?°…~ª</string>
+		<key>active</key>
+		<true/>
+	</dict>
+</array>
+</plist>
